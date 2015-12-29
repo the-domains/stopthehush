@@ -1,0 +1,29 @@
+name: Stopthehush
+favicon: null
+layout_spectrum: 0.6597183889243752
+typography_spectrum: 0.06932639982551336
+title: 'HUSH: Breaking the Silence of Infertility'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8807112162467092
+  lightness: 0.17444041650742292
+  saturation: 0.7598459327127784
+  rhythmicContrast: 0.6400242473464459
+purpose: []
